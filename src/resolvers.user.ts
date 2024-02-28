@@ -69,6 +69,9 @@ export class UserResolver {
           // name: {
           //   notIn: ['Bob'],
           // }
+
+          // Case 7: Batching does not work
+          // AND: []
         },
       })
       .posts()
