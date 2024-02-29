@@ -1,4 +1,6 @@
-# Reproduction repo for prisma issue #????
+# Reproduction repo for prisma issue #23313
+
+Related issue: prisma/prisma#23313
 
 [From the docs on solving the n + 1 problem:](https://www.prisma.io/docs/orm/prisma-client/queries/query-optimization-performance#solving-n1-in-graphql-with-findunique-and-prisma-clients-dataloader)
 
